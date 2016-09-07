@@ -1,0 +1,17 @@
+PODS:
+  - MPSkewed (0.9.0)
+  - Realm (0.93.2):
+    - Realm/Headers (= 0.93.2)
+  - Realm/Headers (0.93.2)
+
+DEPENDENCIES:
+  - MPSkewed
+  - Realm
+
+SPEC CHECKSUMS:
+  MPSkewed: 53d2f5ae0ce57c2ee475107cfb8899426f0b68fa
+  Realm: 2fdd0ae74f730e190384e0338d8a0d3654df8220
+
+PODFILE CHECKSUM: f73ac0e734d2ebefa57ab0ecdec64f4e2088a33e
+
+COCOAPODS: 1.0.1
